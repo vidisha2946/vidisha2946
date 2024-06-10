@@ -23,7 +23,9 @@
 </div>
 
 ###
-![vidisha2946's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidisha2946&theme=vue-dark&hide_border=true)
+
+![vidisha2946's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidisha2946&theme=dark&hide_border=true)
+
 ###
 
 
