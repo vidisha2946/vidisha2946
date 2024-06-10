@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">🎀 Hey, Myself Vidisha Bhagiya.<br>🎯   I’m currently pursuing B.tech CSE <br>⚡ Fun fact</h5>
+<h5 align="left">🎀 Hey, Myself Vidisha Bhagiya.<br>🎯   I’m currently pursuing B.tech CSE <br>⚡ Fun with learn</h5>
 
 ###
 
