@@ -38,9 +38,6 @@
 
 ![vidisha2946's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidisha2946&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-###
-
-![vidisha2946's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidisha2946&theme=dark&hide_border=true)
 
 ###
 
