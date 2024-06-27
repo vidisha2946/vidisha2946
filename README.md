@@ -34,7 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https:"http://www.linkedin.com/in/vidisha-bhagiya-6144522a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgbUvy02SRCiV0NQcjWQnMQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href=https:"https://www.linkedin.com/in/vidisha-bhagiya-6144522a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgbUvy02SRCiV0NQcjWQnMQ%3D%3D"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://discord.gg/vidisha2946_51837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vidisha2946_51837" height="30" width="40" /></a>
 </p>
 
