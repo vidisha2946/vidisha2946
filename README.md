@@ -64,9 +64,7 @@
 <a href="https://github.com/vidisha2946">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vidisha2946&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vidisha2946&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidisha2946&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vidisha2946&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vidisha2946&theme=2077" height="180em" />
+
 </div>
 
 
