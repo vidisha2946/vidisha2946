@@ -30,6 +30,12 @@
 </div>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Profile%20views&color=0e75b6&style=flat" alt="vidisha2946" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidisha-bhagiya-6144522a5?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgbuvy02srciv0nqcjwqnmq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidisha-bhagiya-6144522a5?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgbuvy02srciv0nqcjwqnmq%3d%3d" height="30" width="40" /></a>
+</p>
 
 <a href="https://discord.gg/vidisha2946_51837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vidisha2946_51837" height="30" width="40" /></a>
 </p>
@@ -52,13 +58,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/vidisha2946">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vidisha2946&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vidisha2946&theme=2077" height="180em" />
 
-</div>
 
 
 
