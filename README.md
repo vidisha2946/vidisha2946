@@ -45,6 +45,15 @@
 
 ![vidisha2946's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidisha2946&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl4NzRqeTA0a3UzYzVlc2RmNncyZHI2ZHdvNGt1MXljMWNoZng5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp"  />
+</div>
+
+###
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
