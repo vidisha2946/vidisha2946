@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vidisha2946.vidisha2946&"  />
+  <img src="https://profile-counter.glitch.me/vidisha2946/count.svg?"  />
 </div>
 
 ###
