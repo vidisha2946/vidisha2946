@@ -25,11 +25,6 @@
 <h2 align="left">💻 Tech Stack</h2>
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vidisha2946/count.svg?"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
