@@ -79,7 +79,7 @@
 
 ###
 
-[![2024-50-lg](https://github.com/user-attachments/assets/8588c8e9-2a05-4cc5-92e8-17f471dae2d0)(https://leetcode.com/u/vidisha2946/)]
+[![LinkedIn](https://raw.githubusercontent.com/vidisha2946/vidisha2946/main/linkedin-icon.jpg)](https://linkedin.com/in/your-profile)
 
 
 ###
