@@ -79,7 +79,8 @@
 
 ###
 
-[![50 Days Badge](https://raw.githubusercontent.com/vidisha2946/vidisha2946/main/2024-50-lg.png)](https://leetcode.com/u/vidisha2946/)
+[![2024-50-lg](https://github.com/user-attachments/assets/21cba0f5-66ef-4f7a-9a70-4619b95f496c)
+](https://leetcode.com/u/vidisha2946/)
 
 
 
