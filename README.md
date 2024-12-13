@@ -79,7 +79,7 @@
 
 ###
 
-[![2024-50-lg](https://github.com/user-attachments/assets/242bd6c4-1e74-42a1-a09c-dc3da446ad8f)
+[![2024-50-lg-removebg-preview](https://github.com/user-attachments/assets/6fda855e-8f4b-4347-a7f4-739d133894bc)
 ](https://leetcode.com/u/vidisha2946/)
 
 
