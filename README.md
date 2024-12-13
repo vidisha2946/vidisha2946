@@ -79,9 +79,6 @@
 
 ###
 
-[![2024-50-lg](https://github.com/user-attachments/assets/f261dce9-167b-40c0-953d-a05c04700237)
-(https://raw.githubusercontent.com/vidisha2946/vidisha2946/main/linkedin-icon.jpg)][(https://linkedin.com/in/your-profile)](https://leetcode.com/u/vidisha2946/)
-
 
 ###
 
