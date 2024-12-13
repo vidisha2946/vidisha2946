@@ -79,7 +79,7 @@
 
 ###
 
-[![lg50](https://github.com/user-attachments/assets/e09aae6f-3164-4dd3-9e11-0a698667a69b)
+[![2024-50-lg](https://github.com/user-attachments/assets/242bd6c4-1e74-42a1-a09c-dc3da446ad8f)
 ](https://leetcode.com/u/vidisha2946/)
 
 
