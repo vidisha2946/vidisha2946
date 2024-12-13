@@ -73,7 +73,14 @@
 <a href="https://www.leetcode.com/vidishabhagiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidishabhagiya" height="30" width="40" /></a>
 <a href="https://in.pinterest.com/vidishabhagiya"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/pinterest.svg" width="40" height='40' title="pinterest"/></a></p>
 
-</p>
+###
+
+<h2 align="left">🏆Badges</h2>
+
+###
+
+![2024-50-lg](https://github.com/user-attachments/assets/8588c8e9-2a05-4cc5-92e8-17f471dae2d0)
+
 
 ###
 
