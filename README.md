@@ -79,7 +79,7 @@
 
 ###
 
-<a href="[https://www.linkedin.com/in/vidisha-bhagiya-6144522a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgbUvy02SRCiV0NQcjWQnMQ%3D%3D](https://leetcode.com/u/vidisha2946/)">![2024-50-lg](https://github.com/user-attachments/assets/8588c8e9-2a05-4cc5-92e8-17f471dae2d0)
+![2024-50-lg](https://github.com/user-attachments/assets/8588c8e9-2a05-4cc5-92e8-17f471dae2d0)(https://leetcode.com/u/vidisha2946/)
 
 
 ###
