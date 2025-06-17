@@ -7,13 +7,6 @@
 
 <img src="https://profile-counter.glitch.me/vidisha2946/count.svg" alt="Visitor Count">
 
-<h4>Actual Visitors:</h4>
-<img src="https://profile-counter.glitch.me/vidisha2946/count.svg" alt="Actual Visitor Count">
-
-<h4>Total Visitors (Real + Bonus):</h4>
-<img src="https://img.shields.io/badge/Total_Visitors-12345-green?style=flat-square" alt="Total Visitors">
-
-
 
 ###
 
