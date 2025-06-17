@@ -4,7 +4,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-[![GitHub Views](https://komarev.com/ghpvc/?vidisha2946=natterstefan&color=FAC151)][1]
+![Visitor Count](https://profile-counter.glitch.me/vidisha2946/count.svg)
 
 ###
 
