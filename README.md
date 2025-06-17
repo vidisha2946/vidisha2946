@@ -6,6 +6,11 @@
 ###
 
 <img src="https://profile-counter.glitch.me/vidisha2946/count.svg" alt="Visitor Count">
+<!-- Combined Fake + Real Visitor Count -->
+<p align="center">
+  <img src="https://img.shields.io/badge/👀_Visitors-12345-brightgreen?style=for-the-badge&logo=github" alt="Visitors Count"/>
+</p>
+
 
 
 ###
