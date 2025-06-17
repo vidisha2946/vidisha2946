@@ -4,7 +4,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<img src="https://fakeimg.pl/200x50/?text=Visitors:+9999" alt="Fake Visitor Count">
+
+<img src="https://profile-counter.glitch.me/vidisha2946/count.svg" alt="Visitor Count">
 
 
 ###
