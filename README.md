@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 ![stars](https://readme-typing-svg.herokuapp.com/?color=F7006B&center=false&vCenter=true&lines=✨+Welcome+to+my+GitHub!;💖+Flutter+Developer+%7C+UI+Designer;🔥+Love+learning+new+tech+every+day!)
+![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF008C&width=550&lines=💖+Flutter+Developer+From+India!;🎨+Creative+UI+Designer+%26+Game+Lover;📱+Building+Beautiful+Apps+Daily;🔥+Tech+Explorer+%7C+Lifelong+Learner)
 
 ---
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> **Have a great day, coder!**
