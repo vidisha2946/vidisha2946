@@ -6,13 +6,6 @@
 ### 👁️‍🗨️ Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Thanks+for+visiting!&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-## ✨ My GitHub Visitors
-
-> 🧿 **You're visitor number:**
-
-![Profile Views](https://komarev.com/ghpvc/?username=vidisha2946&label=🌟%20Thanks%20for%20visiting!&color=ff00aa&style=for-the-badge)
-
-
 
 ###
 
