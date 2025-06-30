@@ -5,9 +5,12 @@
 
 ###
 
+<h3 align="center">👁️‍🗨️ Profile Views</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Profile%20views&color=0e75b6&style=flat" alt="vidisha2946" />
+  <img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Thanks+for+visiting!&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ###
 
