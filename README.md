@@ -1,9 +1,3 @@
-
-
-
-###
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 ![stars](https://readme-typing-svg.herokuapp.com/?color=F7006B&center=false&vCenter=true&lines=✨+Welcome+to+my+GitHub!;💖+Flutter+Developer+%7C+UI+Designer;🔥+Love+learning+new+tech+every+day!)
 ---
 
