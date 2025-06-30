@@ -3,13 +3,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+### 👁️‍🗨️ Profile Views
 
-<h3 align="center">👁️‍🗨️ Profile Views</h3>
+<img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Thanks+for+visiting!&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Thanks+for+visiting!&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
 
 
 ###
