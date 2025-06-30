@@ -1,4 +1,10 @@
 
+
+---
+
+![stars](https://readme-typing-svg.herokuapp.com/?color=F7006B&center=false&vCenter=true&lines=✨+Welcome+to+my+GitHub!;💖+Flutter+Developer+%7C+UI+Designer;🔥+Love+learning+new+tech+every+day!)
+
+---
 ###
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -7,17 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vidisha2946&label=Thanks+for+visiting!&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
-## ✨ My GitHub Visitors
 
-> 🧿 **You're visitor number:**
-
-<img src="https://komarev.com/ghpvc/?username=vidisha2946&label=🌟%20Thanks%20for%20visiting!&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-
----
-
-![stars](https://readme-typing-svg.herokuapp.com/?color=F7006B&center=false&vCenter=true&lines=✨+Welcome+to+my+GitHub!;💖+Flutter+Developer+%7C+UI+Designer;🔥+Love+learning+new+tech+every+day!)
-
----
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> **Have a great day, coder!**
 
