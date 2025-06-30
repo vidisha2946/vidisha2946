@@ -6,7 +6,7 @@
 
 ![stars](https://readme-typing-svg.herokuapp.com/?color=F7006B&center=false&vCenter=true&lines=✨+Welcome+to+my+GitHub!;💖+Flutter+Developer+%7C+UI+Designer;🔥+Love+learning+new+tech+every+day!)
 ---
-![typing](https://readme-typing-svg.herokuapp.com?font=Monaco&size=24&pause=1000&color=ff61ef&vCenter=true&width=500&lines=✨+Welcome+to+My+Digital+World!;👩‍💻+Vidisha+%7C+Code+%7C+Design+%7C+Repeat;🌈+UI+Magic+%2B+Logic+Flow;🎯+Focused+on+Building+Fun+Flutter+Games!)
+![typing](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&pause=1000&color=40E0D0&vCenter=true&width=480&lines=📌+2025+Goals%3A;✅+Master+GetX+and+Animations;✅+Launch+a+Flutter+Portfolio+App;✅+Contribute+to+Open+Source;✅+Freelance+for+Global+Clients)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> **Have a great day, coder!**
 
